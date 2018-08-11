@@ -3,3 +3,4 @@ zzzz
 bbb
 ccc
 enenenenene
+addnewlinetoaaa.txt
